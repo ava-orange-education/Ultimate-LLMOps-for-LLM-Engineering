@@ -1,0 +1,1 @@
+UNSAFE_KEYWORDS = ['profanity1', 'profanity2', 'hate_term']

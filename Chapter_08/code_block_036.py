@@ -1,0 +1,1 @@
+scores = scorer.score(reference, generated)
