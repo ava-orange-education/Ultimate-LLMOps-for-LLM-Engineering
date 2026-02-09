@@ -1,0 +1,1 @@
+llm = ChatOpenAI(model=model_name, temperature=temperature)
