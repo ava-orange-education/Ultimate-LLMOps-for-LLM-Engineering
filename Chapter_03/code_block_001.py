@@ -1,0 +1,2 @@
+Example: Prompt: "Translate this natural language question into an SQL query: 'What is the total revenue from sales in 2024?'" The AI is expected to generate an SQL query without having seen any prior examples:
+SELECT SUM(revenue) FROM sales WHERE year = 2024;

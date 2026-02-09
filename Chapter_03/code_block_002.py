@@ -1,0 +1,2 @@
+Example: Example provided to AI: "Translate 'List all employee names' into SQL: SELECT name FROM employees;" Prompt: "Now translate this question into SQL: 'Show me all product names and prices.'" The AI uses the structure of the provided example to generate a new SQL query:
+SELECT name, price FROM products;
