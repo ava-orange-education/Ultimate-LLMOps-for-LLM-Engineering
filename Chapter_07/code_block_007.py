@@ -1,0 +1,1 @@
+app = FastAPI(title="LangServe Demo")

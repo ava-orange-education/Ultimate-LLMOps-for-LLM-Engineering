@@ -1,0 +1,1 @@
+# Model is now 4x smaller in memory!
